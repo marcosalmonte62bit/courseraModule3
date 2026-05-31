@@ -1,31 +1,35 @@
 #header-nav {
-    background-color: gray;
+    background-color: grey;
     border-radius: 0;
     border: 0;
 }
 
-.navbar-brand {
+.navbar-default .navbar-brand {
+    color: black !important;
     font-size: 2em;
     font-weight: bold;
-    color: black !important;
 }
 
-#mobile-menu {
-    background-color: gray;
+#collapsable-nav {
+    background-color: grey;
 }
 
-#mobile-menu ul {
+#collapsable-nav ul {
     width: 100%;
 }
 
-#mobile-menu li {
+#collapsable-nav li {
     border: 1px solid black;
 }
 
+#collapsable-nav a {
+    color: black !important;
+}
+
 .menu-item {
-    background-color: gray;
+    background-color: grey;
     padding: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     min-height: 700px;
 }
 
