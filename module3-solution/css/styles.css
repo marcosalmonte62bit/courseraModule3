@@ -1,0 +1,34 @@
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    font-size: 2em;
+    font-weight: bold;
+    color: black !important;
+}
+
+#mobile-menu {
+    background-color: gray;
+}
+
+#mobile-menu ul {
+    width: 100%;
+}
+
+#mobile-menu li {
+    border: 1px solid black;
+}
+
+.menu-item {
+    background-color: gray;
+    padding: 15px;
+    margin-bottom: 30px;
+    min-height: 700px;
+}
+
+.menu-item h3 {
+    margin-top: 0;
+}
